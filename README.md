@@ -1,16 +1,29 @@
-## Hi there 👋
+### 👋 Hi, I'm Gaurav
 
-<!--
-**gaurav31-gg/gaurav31-gg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 MCA | Java Backend Developer
 
-Here are some ideas to get you started:
+I design and build backend systems using Java and Spring Boot, focusing on REST APIs, database design, and clean architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack
+
+* Backend: Java, JDBC, Servlets, Spring, Spring Boot
+* Frontend: HTML, CSS, JavaScript, React
+* Databases: Oracle SQL, PL/SQL, MongoDB
+* Tools: Maven, Git, GitHub
+
+### 🧠 Core Strengths
+
+* REST API design and development
+* Layered architecture (Controller → Service → DAO)
+* Database integration (SQL + NoSQL)
+* Clean and maintainable code
+
+### 📌 Focus Areas
+
+* Backend system design
+* Scalable application development
+* Full stack integration
+
+### 📫 Connect
+
+* GitHub: https://github.com/gaurav31-gg
