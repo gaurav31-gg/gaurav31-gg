@@ -26,4 +26,5 @@ I design and build backend systems using Java and Spring Boot, focusing on REST 
 
 ### 📫 Connect
 
-* GitHub: https://github.com/gaurav31-gg
+* GitHub: https://github.com/gaurav31-gg/
+* Linkedin: https://www.linkedin.com/in/gaurav31-gg/
