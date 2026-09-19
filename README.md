@@ -1,5 +1,5 @@
 <h1 align="center">Gaurav Gupta</h1>
-<p align="center"><b>Full Stack Java Developer · MCA</b> — Spring Boot, Microservices, REST APIs</p>
+<p align="center"><b>Java Full Stack Developer · MCA</b> — Spring Boot, Microservices, REST APIs</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
